@@ -180,8 +180,7 @@ This compiles the app and generates a `.war` file inside the `target/` folder �
 
 ## 📄 Project Documentation
 
-Full project walkthrough: [View PDF](docs/legendary-aws-devops-vscode.pdf)
----
+Full project walkthrough: [View PDF](docs/legendary-aws-devops-vscode.pdf)---
 
 ## 💡 Key Learnings & Reflections
 
