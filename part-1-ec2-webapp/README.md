@@ -178,24 +178,9 @@ This compiles the app and generates a `.war` file inside the `target/` folder �
 
 ---
 
-## 📸 Screenshots
+## 📄 Project Documentation
 
-> _Add your screenshots here by uploading images to the repo and referencing them below._
-
-| Step | Screenshot |
-|---|---|
-| EC2 instance running | `screenshots/ec2-running.png` |
-| SSH connection in terminal | `screenshots/ssh-connection.png` |
-| VS Code connected via Remote-SSH | `screenshots/vscode-remote.png` |
-| Project folder structure | `screenshots/folder-structure.png` |
-| index.jsp edited | `screenshots/index-jsp-edited.png` |
-| Maven build success | `screenshots/maven-build-success.png` |
-
-**To add screenshots:**
-1. Create a `screenshots/` folder in your repo
-2. Upload your images there
-3. Replace the filenames above with your actual image names
-
+Full project walkthrough: [View PDF](docs/legendary-aws-devops-vscode.pdf)
 ---
 
 ## 💡 Key Learnings & Reflections
